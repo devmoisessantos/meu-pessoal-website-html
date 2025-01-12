@@ -1,7 +1,6 @@
 ---
-# Web Site: Model No CSS
+# Pessoal Web Site: Model Only HTML
 ---
-# Meu Website Pessoal
 
 Este repositório contém o código-fonte do meu website pessoal, desenvolvido para praticar e demonstrar habilidades em HTML.
 
